@@ -1,3 +1,12 @@
+## Getting Started
+
+```zsh
+$ . venv/bin/activate
+$ jupyter lab
+```
+
+## NOTE
+
 ```zsh
 # activate venv
 $ . venv/bin/activate
@@ -15,6 +24,7 @@ pip install <package-name>
 pip freeze > requirements.txt
 ```
 
-```zsh
-jupyter lab
-```
+## REF
+
+- [Qiskit](https://qiskit.org/)
+- [IBM Quamtum Learning - Composer - GUI](https://quantum-computing.ibm.com/composer)
