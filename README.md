@@ -2,6 +2,7 @@
 
 ```zsh
 $ . venv/bin/activate
+$ pip install jupyterlab
 $ jupyter lab
 ```
 
@@ -14,6 +15,8 @@ $ . venv/bin/activate
 # deactivate venv
 deactivate
 ```
+
+## TODO
 
 ```zsh
 # install packages
